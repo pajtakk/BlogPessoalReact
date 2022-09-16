@@ -1,0 +1,18 @@
+.box1{
+    background: linear-gradient(0deg, rgb(0, 0, 0) 35%, rgb(0, 0, 0) 100%)!important;
+    height: 120px;
+}
+
+.box2{
+    background: linear-gradient(0deg, rgb(0, 0, 0) 35%, rgb(0, 0, 0) 100%)!important;
+    height: 60px;
+}
+
+.redes{
+    font-size: 60px !important;
+    color: white;
+}
+
+.textos{
+   color: white;
+}

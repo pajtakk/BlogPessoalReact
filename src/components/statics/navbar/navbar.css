@@ -1,0 +1,27 @@
+
+.navcenter{
+
+justify-content: center!important;
+width: 100%;
+
+}
+
+
+
+.cursor{
+    cursor: pointer;
+    color: white;
+}
+
+
+
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.appbar {
+
+background-color: black!important;
+
+}
