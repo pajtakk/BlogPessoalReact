@@ -1,0 +1,27 @@
+.text-decorator-none {
+    text-decoration: none;
+
+
+}
+
+.MuiTabPanel-root {
+    background-color: black;
+}
+
+.fundocontainer {
+
+background-color: #00B99A;
+
+}
+
+.deletbotao {
+
+    background-color: black!important;
+
+}
+
+.atualizabotao {
+
+background-color: #00B99A!important;
+
+}
