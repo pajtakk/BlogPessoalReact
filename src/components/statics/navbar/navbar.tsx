@@ -19,7 +19,20 @@ function Navbar() {
 
     function goLogout() {
         dispatch(addToken(''))
-        alert('Usuário deslogado com sucesso!')
+        toast.info('Usuário deslogado', {
+            position: "top-right",
+            autoClose: 2000,
+            hideProgressBar: false,
+            closeOnClick: true,
+            pauseOnHover: false,
+            draggable: false,
+            theme: "colored",
+            progress: undefined,
+
+
+        }
+        
+        )
         navigate("/login")
     }
 
