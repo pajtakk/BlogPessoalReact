@@ -17,6 +17,7 @@ import DeletarTema from './components/temas/deletarTema/deletarTema';
 import { Provider } from 'react-redux';
 import store from './store/store';
 
+
 import './App.css';
 import 'react-toastify/dist/ReactToastify.css';
 
